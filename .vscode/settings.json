@@ -1,0 +1,5 @@
+{
+    "appService.showBuildDuringDeployPrompt": false,
+    "appService.defaultWebAppToDeploy": "/subscriptions/df39d398-dfff-4018-a0ad-d484696fd198/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/chipmunk-racecar",
+    "appService.deploySubpath": "."
+}
